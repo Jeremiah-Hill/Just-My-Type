@@ -67,7 +67,7 @@ $(document).ready(function () {
     }
 
     function moveBlock() {
-        $('#yellow-block').css('left', '+=18.5px');
+        $('#yellow-block').css('left', '+=17.5px');
     }
 
     function highlightKey(key) {
